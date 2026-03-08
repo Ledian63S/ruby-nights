@@ -24,24 +24,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lumos Ruby",
+                "label": "Ruby Nights",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-color-theme.json"
+                "path": "./themes/ruby-nights.json"
             },
             {
-                "label": "Lumos Ruby Midnight",
+                "label": "Ruby Nights Midnight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-ruby-midnight.json"
+                "path": "./themes/ruby-nights-midnight.json"
             },
             {
-                "label": "Lumos Garnet",
+                "label": "Ruby Nights Garnet",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-garnet.json"
+                "path": "./themes/ruby-nights-garnet.json"
             },
             {
-                "label": "Lumos Garnet Midnight",
+                "label": "Ruby Nights Garnet Midnight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-garnet-midnight.json"
+                "path": "./themes/ruby-nights-garnet-midnight.json"
             }
         ]
     },

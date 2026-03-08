@@ -1,7 +1,15 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(sed:*)",
+      "Bash(git:*)",
+      "Bash(npx vsce:*)",
+      "Bash(node:*)",
+      "Bash(npm list:*)",
+      "Bash(gh run:*)"
     ]
   }
 }

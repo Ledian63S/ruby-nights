@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" width="120" alt="Lumos" />
+<img src="icon.png" width="120" alt="Ruby Nights" />
 
 # Ruby Nights
 
@@ -19,10 +19,10 @@ A dark VS Code theme with rich ruby and garnet tones. Easy on the eyes for long 
 
 | Name | Description |
 |------|-------------|
-| **Lumos Ruby** | Warm dark ruby tones — darker sidebar, lighter editor |
-| **Lumos Ruby Midnight** | Deeper, darker ruby for low-light environments |
-| **Lumos Garnet** | Rich wine and burgundy tones with a subtle purple hint |
-| **Lumos Garnet Midnight** | Deeper garnet for maximum depth and contrast |
+| **Ruby Nights** | Warm dark ruby tones — darker sidebar, lighter editor |
+| **Ruby Nights Midnight** | Deeper, darker ruby for low-light environments |
+| **Ruby Nights Garnet** | Rich wine and burgundy tones with a subtle purple hint |
+| **Ruby Nights Garnet Midnight** | Deeper garnet for maximum depth and contrast |
 
 ## Features
 
