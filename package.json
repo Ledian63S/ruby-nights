@@ -2,7 +2,7 @@
     "name": "lumos-theme",
     "displayName": "Lumos",
     "description": "A dark theme for VS Code inspired by ruby and firefly. Available in ash, dark, and onyx variants.",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "icon": "icon.png",
     "publisher": "lekaledian",
     "author": {
