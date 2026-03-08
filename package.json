@@ -2,7 +2,7 @@
     "name": "ruby-nights",
     "displayName": "Ruby Nights",
     "description": "A dark VS Code theme with rich ruby and garnet tones. Available in Ruby, Ruby Midnight, Garnet, and Garnet Midnight variants.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "icon": "icon.png",
     "publisher": "lekaledian",
     "author": {

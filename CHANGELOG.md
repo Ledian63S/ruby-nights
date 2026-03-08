@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.4] - 2026-03-08
+## [1.0.5] - 2026-03-08
 ### Changed
 - Renamed extension and all themes from Lumos to Ruby Nights
 
