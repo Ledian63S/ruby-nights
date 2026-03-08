@@ -4,7 +4,10 @@
 
 # Lumos
 
-A dark theme for VS Code inspired by ruby and firefly. Clean, minimal, and easy on the eyes — available in three variants.
+A dark VS Code theme inspired by ruby and firefly. Clean, minimal, and easy on the eyes — with a blurple accent color and three variants to match your preference.
+
+[![Version](https://img.shields.io/visual-studio-marketplace/v/lekaledian.lumos-theme?label=Marketplace&color=5865f2)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/lekaledian.lumos-theme?color=5865f2)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
 
 </div>
 
@@ -14,9 +17,17 @@ A dark theme for VS Code inspired by ruby and firefly. Clean, minimal, and easy 
 
 | Name | Description |
 |------|-------------|
-| **Lumos ash** | Dark sidebar (`#121214`), slightly lighter editor (`#1A1A1E`) |
-| **Lumos dark** | Everything unified in deep dark (`#121214`) |
-| **Lumos onyx** | Maximum contrast with near-black (`#070709`) |
+| **Lumos Ash** | Two-tone — dark sidebar (`#121214`), slightly lighter editor (`#1A1A1E`) |
+| **Lumos Dark** | Fully unified deep dark (`#121214`) |
+| **Lumos Onyx** | Maximum contrast with near-black (`#070709`) |
+
+## Features
+
+- Blurple (`#5865f2`) accent color throughout the UI — cursor, active tab indicator, focus borders, selections
+- Subtle blurple tint on editor selections, word highlights, and list items
+- Clear git status colors — bright yellow for modified, green for untracked, red for deleted
+- Unified title bar, tab bar, and sidebar for a seamless, borderless feel
+- Readable muted foregrounds across breadcrumbs, status bar, and inactive tabs
 
 ## Install
 
